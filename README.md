@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Django REST Framework JWT Example
 
 [![Python Version](https://img.shields.io/badge/python-3.7-brightgreen.svg)](https://python.org)
@@ -38,3 +39,8 @@ The API endpoints will be available at **127.0.0.1:8000/hello/**.
 ## License
 
 The source code is released under the [MIT License](https://github.com/sibtc/drf-jwt-example/blob/master/LICENSE).
+=======
+# Task
+>>>>>>> origin/main
+# drf-jwt-example
+This project demonstrates JWT authentication with Django REST Framework.
